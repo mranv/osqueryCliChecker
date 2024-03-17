@@ -19,7 +19,7 @@ The project consists of the following components:
 1. Clone the `osqueryCliChecker` repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/osqueryCliChecker.git
+    git clone https://github.com/mranv/osqueryCliChecker.git
     ```
 
 2. Navigate to the cloned directory:
